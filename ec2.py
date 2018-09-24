@@ -1,6 +1,6 @@
 import boto3
 
-# The shell of my ec2 script This will be built out more.
+# The shell of my ec2 script. This will be built out more.
 
 def ec2_check():
     # check all instances and their status in ec2
